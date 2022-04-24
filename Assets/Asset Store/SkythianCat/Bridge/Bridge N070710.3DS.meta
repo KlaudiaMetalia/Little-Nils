@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 8cd547578aa591c4bbd3c70bab6057c3
+timeCreated: 1528105825
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arch22_010
+    100002: arch22_011
+    100004: arch22_012
+    100006: arch22_013
+    100008: arch22_014
+    100010: arch22_015
+    100012: arch22_016
+    100014: arch22_017
+    100016: arch22_018
+    100018: arch22_019
+    100020: arch22_020
+    100022: arch22_021
+    100024: arch22_022
+    100026: arch22_023
+    100028: arch22_024
+    100030: arch22_025
+    100032: Box13
+    100034: Box277
+    100036: Box278
+    100038: Box279
+    100040: Box280
+    100042: Box281
+    100044: //RootNode
+    100046: ChamferBo0
+    100048: ChamferBo1
+    100050: ChamferBo2
+    100052: ChamferBox
+    100054: Group23
+    100056: Group24
+    100058: Group25
+    100060: Group26
+    100062: Group27
+    100064: Group28
+    400000: arch22_010
+    400002: arch22_011
+    400004: arch22_012
+    400006: arch22_013
+    400008: arch22_014
+    400010: arch22_015
+    400012: arch22_016
+    400014: arch22_017
+    400016: arch22_018
+    400018: arch22_019
+    400020: arch22_020
+    400022: arch22_021
+    400024: arch22_022
+    400026: arch22_023
+    400028: arch22_024
+    400030: arch22_025
+    400032: Box13
+    400034: Box277
+    400036: Box278
+    400038: Box279
+    400040: Box280
+    400042: Box281
+    400044: //RootNode
+    400046: ChamferBo0
+    400048: ChamferBo1
+    400050: ChamferBo2
+    400052: ChamferBox
+    400054: Group23
+    400056: Group24
+    400058: Group25
+    400060: Group26
+    400062: Group27
+    400064: Group28
+    2300000: arch22_010
+    2300002: arch22_011
+    2300004: arch22_012
+    2300006: arch22_013
+    2300008: arch22_014
+    2300010: arch22_015
+    2300012: arch22_016
+    2300014: arch22_017
+    2300016: arch22_018
+    2300018: arch22_019
+    2300020: arch22_020
+    2300022: arch22_021
+    2300024: arch22_022
+    2300026: arch22_023
+    2300028: arch22_024
+    2300030: arch22_025
+    2300032: Box13
+    2300034: Box277
+    2300036: Box278
+    2300038: Box279
+    2300040: Box280
+    2300042: Box281
+    2300044: ChamferBo0
+    2300046: ChamferBo1
+    2300048: ChamferBo2
+    2300050: ChamferBox
+    3300000: arch22_010
+    3300002: arch22_011
+    3300004: arch22_012
+    3300006: arch22_013
+    3300008: arch22_014
+    3300010: arch22_015
+    3300012: arch22_016
+    3300014: arch22_017
+    3300016: arch22_018
+    3300018: arch22_019
+    3300020: arch22_020
+    3300022: arch22_021
+    3300024: arch22_022
+    3300026: arch22_023
+    3300028: arch22_024
+    3300030: arch22_025
+    3300032: Box13
+    3300034: Box277
+    3300036: Box278
+    3300038: Box279
+    3300040: Box280
+    3300042: Box281
+    3300044: ChamferBo0
+    3300046: ChamferBo1
+    3300048: ChamferBo2
+    3300050: ChamferBox
+    4300000: arch22_014
+    4300002: arch22_010
+    4300004: arch22_011
+    4300006: arch22_012
+    4300008: arch22_013
+    4300010: arch22_015
+    4300012: Box13
+    4300014: arch22_016
+    4300016: arch22_017
+    4300018: Box277
+    4300020: arch22_018
+    4300022: arch22_019
+    4300024: Box278
+    4300026: ChamferBox
+    4300028: ChamferBo0
+    4300030: arch22_020
+    4300032: arch22_021
+    4300034: Box279
+    4300036: arch22_022
+    4300038: arch22_023
+    4300040: Box280
+    4300042: arch22_024
+    4300044: arch22_025
+    4300046: Box281
+    4300048: ChamferBo1
+    4300050: ChamferBo2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: f22541cc279fc8f448d47f8e9197921a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _8u
+    second: {fileID: 2100000, guid: 1242bbe9b791088458a1132e923e8082, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _8u;
+    second: {fileID: 2100000, guid: aaa7f94fd8d0ed1458a4013db4100ed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _8u;t
+    second: {fileID: 2100000, guid: 2a9cf0d3077ca8844911987860bd3856, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _8uw
+    second: {fileID: 2100000, guid: df1694c9d3682e74fa506ae76549e385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _______ st6andar
+    second: {fileID: 2100000, guid: 35b69c244a50133499db3793890bd61e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
